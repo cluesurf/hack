@@ -2,6 +2,10 @@
 
 https://www.shadertoy.com/view/tlVGDt
 
+<p align='center'>
+  <img src='octograms.gif?raw=true' height='192'>
+</p>
+
 This shader draws a field of abstract, rotating, symmetrical box structures that pulse over time and fade with depth. It creates a glowing, volumetric look using **signed distance functions (SDF)** and **raymarching**, with the scene made from a set of **repeating rotated boxes** arranged in 3D.
 
 ### Key ingredients

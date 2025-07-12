@@ -25,6 +25,12 @@ This repo will be a collection of experiments in visualizing kaleidoscopic fract
 
 Researching examples from the web first, starting from ShaderToy.
 
+## Development
+
+```bash
+ffmpeg -i /Users/lancepollard/Downloads/octograms.webm -r 15 -vf scale=1024:-1 /Users/lancepollard/Downloads/octograms.webm.gif
+```
+
 ## ClueSurf
 
 This is being developed by the folks at [ClueSurf](https://clue.surf), a
