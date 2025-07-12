@@ -23,7 +23,7 @@
 
 This repo will be a collection of experiments in visualizing kaleidoscopic fractal recursion visualizations, ideally in TypeScript.
 
-Researching examples from the web first, starting from ShaderToy.
+Researching examples from the web first, starting from ShaderToy. The readmes are AI generated, asking to explain the `main.glsl` code in each.
 
 - https://www.shadertoy.com/view/WtKSzt
 - https://www.shadertoy.com/view/MsXGRf
