@@ -25,6 +25,14 @@ This repo will be a collection of experiments in visualizing kaleidoscopic fract
 
 Researching examples from the web first, starting from ShaderToy.
 
+- https://www.shadertoy.com/view/WtKSzt
+- https://www.shadertoy.com/view/MsXGRf
+- https://www.shadertoy.com/view/4ds3zn
+- https://www.shadertoy.com/view/4lyGzR
+- https://www.shadertoy.com/view/4scGDH
+- https://www.shadertoy.com/view/4dsGD7
+- https://www.shadertoy.com/view/mljSWV
+
 ## Development
 
 ```bash
