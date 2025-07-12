@@ -32,6 +32,19 @@ Researching examples from the web first, starting from ShaderToy. The readmes ar
 - https://www.shadertoy.com/view/4scGDH
 - https://www.shadertoy.com/view/4dsGD7
 - https://www.shadertoy.com/view/mljSWV
+- https://www.shadertoy.com/view/Xs2fWK (m.c. escher)
+- https://www.shadertoy.com/view/4tKXD3
+- https://www.shadertoy.com/view/XdlBzS (basic kaleidoscope)
+  - https://www.shadertoy.com/view/MtKcRc
+  - https://www.shadertoy.com/view/dl3SRr
+  - https://www.shadertoy.com/view/Mdf3z7 (excellent)
+- https://www.shadertoy.com/view/ldfyzl (ripples)
+- https://www.shadertoy.com/view/4s23WK (turbulence)
+- https://www.shadertoy.com/view/MdlXz8 (water)
+  - https://www.shadertoy.com/view/dtXGW4
+- https://www.shadertoy.com/view/ttB3Rt (waves)
+- https://www.youtube.com/watch?v=iTRaRQQGOVY (excellent)
+- https://www.shadertoy.com/view/4sGXDK
 
 ## Development
 
