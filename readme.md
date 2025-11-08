@@ -7,10 +7,10 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/cluesurf/tour/blob/make/view/tour.svg?raw=true' height='192'>
+  <img src='https://github.com/cluesurf/hack/blob/make/view/tour.svg?raw=true' height='192'>
 </p>
 
-<h3 align='center'>tour</h3>
+<h3 align='center'>@cluesurf/hack</h3>
 <p align='center'>
   Explorations into various things 𖦹
 </p>
@@ -20,6 +20,8 @@
 <br/>
 
 ## Introduction
+
+Random projects/explorations/hacks/ideas/thoughts not gate-keeped :).... For now at least.
 
 ## ClueSurf
 
