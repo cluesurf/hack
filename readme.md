@@ -21,7 +21,7 @@
 
 ## Introduction
 
-Random projects/explorations/hacks/ideas/thoughts not gate-keeped for now at least.
+Random projects/explorations/hacks/ideas/thoughts, because doing this in the open is sometimes fun :].
 
 ## ClueSurf
 
